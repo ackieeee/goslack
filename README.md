@@ -1,0 +1,2 @@
+# goslack
+GoでSlackのWebhook通知を使用できるようにするパッケージ
